@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63923B28-F5B9-477D-AF5A-000F7482418F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tasks", "Tasks", "{F2E7A0A3-E35B-4891-A97C-AABB0CCE2DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeachMeSkills.DotNet.Task1", "src\TeachMeSkills.DotNet.Task1\TeachMeSkills.DotNet.Task1.csproj", "{27E9B749-C7CA-41B7-B53A-EE05AB46C8E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E9B749-C7CA-41B7-B53A-EE05AB46C8E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E9B749-C7CA-41B7-B53A-EE05AB46C8E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E9B749-C7CA-41B7-B53A-EE05AB46C8E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E9B749-C7CA-41B7-B53A-EE05AB46C8E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{27E9B749-C7CA-41B7-B53A-EE05AB46C8E0} = {F2E7A0A3-E35B-4891-A97C-AABB0CCE2DDB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB361F5D-A586-489F-BE2A-9BA764BA63B1}
+	EndGlobalSection
+EndGlobal
